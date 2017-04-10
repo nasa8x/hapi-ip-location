@@ -1,0 +1,31 @@
+{
+  "name": "hapi-ip-location",
+  "version": "1.0.0",
+  "description": "Fetch the geo location of an IP address, IP6 and host name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nasa8x/hapi-ip-location.git"
+  },
+  "keywords": [
+    "ip location",
+    "geo",
+    "geo location",
+    "hapi ip location",
+    "ip2location",
+    "ip 2 location"
+    
+  ],
+  "author": "Nasa8x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/nasa8x/hapi-ip-location/issues"
+  },
+  "homepage": "https://gitlab.com/nasa8x/hapi-ip-location#README",
+  "dependencies": {
+    "ip-to-location": "^1.0.1"
+  }
+}
